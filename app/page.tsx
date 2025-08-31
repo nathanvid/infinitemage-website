@@ -17,8 +17,17 @@ export const metadata = generatePageMetadata({
   type: 'website'
 })
 
+interface Chapter {
+  slug: string
+  title: string
+  number: number
+  date: string
+  wordCount?: number
+  published: boolean
+}
+
 // Ajout du JSON-LD pour la page d'accueil
-function generateHomeJsonLd(chapters: any[]) {
+function generateHomeJsonLd(chapters: Chapter[]) {
   return {
     '@context': 'https://schema.org',
     '@type': 'Book',
@@ -51,7 +60,6 @@ export default function HomePage() {
   const chapters = getAllChapters()
   const firstChapter = getFirstChapter()
   const latestChapter = getLatestChapter()
-  const displayedChapters = chapters.slice(0, 20)
 
   return (
     <div className="min-h-screen">

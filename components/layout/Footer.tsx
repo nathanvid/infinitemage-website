@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { siteConfig } from '@/config/site'
 import { Separator } from "@/components/ui/separator"
 import { Button } from "@/components/ui/button"
-import { Github, MessageCircle, Coffee, Mail } from "lucide-react"
+import { MessageCircle, Coffee, Mail } from "lucide-react"
 
 export default function Footer() {
   return (

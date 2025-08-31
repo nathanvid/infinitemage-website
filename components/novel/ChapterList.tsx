@@ -34,7 +34,6 @@ export default function ChapterList({
   title = "Liste des Chapitres",
   description,
   maxWidth = "max-w-6xl",
-  showFooter = true,
   limitChapters
 }: ChapterListProps) {
   
@@ -69,12 +68,12 @@ export default function ChapterList({
               {reverseOrder ? (
                 <>
                   <ArrowDown className="h-4 w-4" />
-                  Plus récents d'abord
+                  forward
                 </>
               ) : (
                 <>
                   <ArrowUp className="h-4 w-4" />
-                  Plus anciens d'abord
+                  reverse
                 </>
               )}
             </Button>

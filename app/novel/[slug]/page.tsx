@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: ChapterPageProps) {
       publishedTime: chapter.frontmatter.date,
       type: 'article'
     })
-  } catch (error) {
+  } catch {
     return generatePageMetadata({
       title: 'Chapter Not Found',
       description: 'The chapter you are looking for does not exist or has not been translated yet. ',
@@ -60,7 +60,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
         />
       </main>
     )
-  } catch (error) {
+  } catch {
     // If chapter doesn't exist, show 404
     notFound()
   }

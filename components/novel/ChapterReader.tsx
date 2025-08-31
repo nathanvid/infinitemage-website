@@ -1,6 +1,5 @@
 // components/novel/ChapterReader.tsx
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Separator } from "@/components/ui/separator"
 import ChapterNavigation from "./ChapterNavigation"
 
 interface NavigationChapter {
@@ -23,7 +22,7 @@ interface ChapterReaderProps {
   }
 }
 
-export default function ChapterReader({ slug, frontmatter, content, navigation }: ChapterReaderProps) {
+export default function ChapterReader({ frontmatter, content, navigation }: ChapterReaderProps) {
   return (
     <>
       {/* Navigation Top */}

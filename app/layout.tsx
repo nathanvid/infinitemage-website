@@ -1,27 +1,10 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import Header from "@/components/layout/Header"
 import Footer from "@/components/layout/Footer"
 import "./globals.css";
 import { Inter } from 'next/font/google'
 import { siteConfig } from '@/config/site'
 import Analytics from '@/components/Analytics'
-
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-interface LayoutProps {
-  children: React.ReactNode
-  showFooter?: boolean
-}
 
 export default function RootLayout({
   children,

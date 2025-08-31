@@ -1,6 +1,8 @@
+
+// components/Analytics.tsx - Version corrigée avec Suspense
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, Suspense } from 'react'
 import { usePathname, useSearchParams } from 'next/navigation'
 import { siteConfig } from '@/config/site'
 
@@ -10,7 +12,7 @@ declare global {
   }
 }
 
-export default function Analytics() {
+function AnalyticsTracker() {
   const pathname = usePathname()
   const searchParams = useSearchParams()
 
@@ -25,12 +27,17 @@ export default function Analytics() {
     })
   }, [pathname, searchParams])
 
+  return null
+}
+
+export default function Analytics() {
   if (!siteConfig.analytics?.googleAnalyticsId) {
     return null
   }
 
   return (
     <>
+      {/* Google Analytics Scripts */}
       <script
         async
         src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.analytics.googleAnalyticsId}`}
@@ -47,6 +54,11 @@ export default function Analytics() {
           `,
         }}
       />
+      
+      {/* Tracking wrapped in Suspense */}
+      <Suspense fallback={null}>
+        <AnalyticsTracker />
+      </Suspense>
     </>
   )
 }

@@ -11,7 +11,7 @@ import { BookOpen, Clock, Calendar } from "lucide-react"
 import { generatePageMetadata } from '@/lib/seo'
 
 export const metadata = generatePageMetadata({
-  title: siteConfig.name,
+  title: "Home",
   description: siteConfig.description,
   path: '/',
   type: 'website'

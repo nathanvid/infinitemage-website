@@ -20,7 +20,7 @@ export function generatePageMetadata({
   type?: 'website' | 'article'
 }) {
   const url = `${siteConfig.url}${path}`
-  const siteName = siteConfig.name
+  const siteName = siteConfig.title
   
   return {
     title: `${title} | ${siteName}`,

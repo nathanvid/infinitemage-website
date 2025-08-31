@@ -1,11 +1,11 @@
 export const siteConfig = {
     title: "Infinite Mage",
     description: "Website ",
-    name: "Infinite Mage",
+    name: "",
     url: "https://infinitymage.fr",
 
     novel: {
-        title: "Infinity Mage",
+        title: "Infinite Mage",
         originalTitle: "무한의 마법사",
         status : "Progress",
         coverImage: "/InfiniteMage.webp",

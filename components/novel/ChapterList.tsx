@@ -31,7 +31,7 @@ export default function ChapterList({
   showSortButton = false,
   reverseOrder = false,
   onToggleOrder,
-  title = "Liste des Chapitres",
+  title = "Chapters List",
   description,
   maxWidth = "max-w-6xl",
   limitChapters
@@ -49,8 +49,8 @@ export default function ChapterList({
   
   // Auto-generate description if not provided
   const finalDescription = description || 
-    `${chapters.length} chapitre${chapters.length > 1 ? 's' : ''} disponible${chapters.length > 1 ? 's' : ''}${
-      reverseOrder ? ' (du plus récent au plus ancien)' : ''
+    `${chapters.length} chapters${chapters.length > 1 ? 's' : ''} available${chapters.length > 1 ? 's' : ''}${
+      reverseOrder ? ' (from newest to oldest)' : ''
     }`
   
   return (

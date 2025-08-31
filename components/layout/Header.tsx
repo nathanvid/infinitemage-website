@@ -14,7 +14,7 @@ export default function Header() {
             className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
           >
             <span className="text-lg sm:text-xl font-bold">
-              {siteConfig.name}
+              {siteConfig.title}
             </span>
           </Link>
 

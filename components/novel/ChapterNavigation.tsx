@@ -30,21 +30,21 @@ export default function ChapterNavigation({ prev, next }: ChapterNavigationProps
                     <Link href={`/novel/${prev.slug}`} className="flex items-center gap-1 sm:gap-2 p-2 sm:p-3">
                       <ChevronLeft className="h-4 w-4 sm:h-5 sm:w-5 flex-shrink-0" />
                       <div className="text-left min-w-0 hidden sm:block">
-                        <div className="text-xs text-muted-foreground">Précédent</div>
+                        <div className="text-xs text-muted-foreground">Previous</div>
                         <div className="truncate font-medium text-sm">{prev.title}</div>
                       </div>
                       {/* Texte mobile uniquement */}
-                      <span className="text-xs sm:hidden">Préc.</span>
+                      <span className="text-xs sm:hidden">Prev.</span>
                     </Link>
                   </Button>
                 ) : (
                   <Button variant="outline" disabled className="h-auto p-2 sm:p-3 opacity-50">
                     <ChevronLeft className="h-4 w-4 sm:h-5 sm:w-5 flex-shrink-0" />
                     <div className="text-left ml-1 sm:ml-2 hidden sm:block">
-                      <div className="text-xs">Précédent</div>
-                      <div className="text-sm">Aucun</div>
+                      <div className="text-xs">Previous</div>
+                      <div className="text-sm">None</div>
                     </div>
-                    <span className="text-xs sm:hidden ml-1">Préc.</span>
+                    <span className="text-xs sm:hidden ml-1">Prev.</span>
                   </Button>
                 )}
               </div>
@@ -54,7 +54,7 @@ export default function ChapterNavigation({ prev, next }: ChapterNavigationProps
                 <Button variant="ghost" asChild>
                   <Link href="/novel" className="flex items-center gap-1 sm:gap-2 p-2 sm:p-3">
                     <List className="h-4 w-4 sm:h-5 sm:w-5" />
-                    <span className="text-xs sm:text-sm">Liste</span>
+                    <span className="text-xs sm:text-sm">List</span>
                   </Link>
                 </Button>
               </div>
@@ -65,9 +65,9 @@ export default function ChapterNavigation({ prev, next }: ChapterNavigationProps
                   <Button variant="outline" asChild className="h-auto">
                     <Link href={`/novel/${next.slug}`} className="flex items-center gap-1 sm:gap-2 p-2 sm:p-3">
                       {/* Texte mobile uniquement */}
-                      <span className="text-xs sm:hidden">Suiv.</span>
+                      <span className="text-xs sm:hidden">Next.</span>
                       <div className="text-right min-w-0 hidden sm:block">
-                        <div className="text-xs text-muted-foreground">Suivant</div>
+                        <div className="text-xs text-muted-foreground">Next</div>
                         <div className="truncate font-medium text-sm">{next.title}</div>
                       </div>
                       <ChevronRight className="h-4 w-4 sm:h-5 sm:w-5 flex-shrink-0" />
@@ -75,10 +75,10 @@ export default function ChapterNavigation({ prev, next }: ChapterNavigationProps
                   </Button>
                 ) : (
                   <Button variant="outline" disabled className="h-auto p-2 sm:p-3 opacity-50">
-                    <span className="text-xs sm:hidden mr-1">Suiv.</span>
+                    <span className="text-xs sm:hidden mr-1">Next.</span>
                     <div className="text-right mr-1 sm:mr-2 hidden sm:block">
-                      <div className="text-xs">Suivant</div>
-                      <div className="text-sm">Aucun</div>
+                      <div className="text-xs">Next</div>
+                      <div className="text-sm">None</div>
                     </div>
                     <ChevronRight className="h-4 w-4 sm:h-5 sm:w-5 flex-shrink-0" />
                   </Button>

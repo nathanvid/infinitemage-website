@@ -3,11 +3,20 @@
 import { useState } from 'react'
 import ChapterList from './ChapterList'
 
-interface ChapterListWithSortProps {
-  chapters: any[]
+interface Chapter {
+  slug: string
+  title: string
+  number: number
+  date: string
+  wordCount?: number
+  published: boolean
 }
 
-export default function ChapterListWithSort({ chapters }: ChapterListWithSortProps) {
+interface ChapterListWithSortProps {
+  chapters: Chapter[]
+}
+
+export default function ChapterListWithSort( {chapters} : ChapterListWithSortProps) {
   const [reverseOrder, setReverseOrder] = useState(false)
   
   const toggleOrder = () => {

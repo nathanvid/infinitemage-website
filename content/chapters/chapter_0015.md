@@ -1,5 +1,5 @@
 ---
-title: title: Chapter 15 - The First Step Toward a Dream (7)
+title: Chapter 15 - The First Step Toward a Dream (7)
 date: 2025-08-31
 ---
 

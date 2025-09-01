@@ -1,5 +1,5 @@
 ---
-title: Chapter 190 - Norse Refuge (5)
+title: Chapter 190 - Norse Shelter (5)
 date: 2025-08-29
 ---
 

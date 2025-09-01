@@ -1,5 +1,5 @@
 ---
-title: Chapter 188 - Norse Refuge (3)
+title: Chapter 188 - Norse Shelter (3)
 date: 2025-08-29
 ---
 

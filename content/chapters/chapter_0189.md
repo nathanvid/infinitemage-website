@@ -1,5 +1,5 @@
 ---
-title: Chapter 189 - Norse Refuge (4)
+title: Chapter 189 - Norse Shelter (4)
 date: 2025-08-29
 ---
 
@@ -27,7 +27,7 @@ Shirone couldn't help but chuckle. Even when making requests, her straightforwar
 
 The elixirs would be best used for everyone anyway. So he should buy it, but since he didn't know what defects it might have, he couldn't negotiate.
 
-Asking directly would surely let the merchant manipulate him, and Klove wouldn't provide any help.
+Asking directly would surely let the merchant manipulate him, and Clove wouldn't provide any help.
 
 "Why won't you sell it! I brought exactly what you asked for!"
 
@@ -55,7 +55,7 @@ But Kanya's reaction was too intense for it to be simply a stimulant. What could
 
 Kanya's face turned pale. How could he say such things, even if he was a merchant?
 
-Even the despicable Klove frowned this time.
+Even the despicable Clove frowned this time.
 
 The merchant's expression didn't change even when stared at with murderous intent. He had never intended to sell anything to divine subjects from the beginning.
 

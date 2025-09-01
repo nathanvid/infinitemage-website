@@ -1,5 +1,5 @@
 ---
-title: Chapter 192 - Norse Refuge (7)
+title: Chapter 192 - Norse Shelter (7)
 date: 2025-08-29
 ---
 
@@ -15,17 +15,17 @@ Tess removed the drone and attached it to her gauntlet, nodding repeatedly as sh
 
 Kanya informed her that it also had language decoding functions, and if specific brainwaves were stored, it could track radio waves and automatically find targets.
 
-Unlike Sirone's group, who were excited about the combat enhancement, Clove rolled his eyes anxiously.
+Unlike Shirone's group, who were excited about the combat enhancement, Clove rolled his eyes anxiously.
 
 Even to heretics, the word Nephilim was powerful.
 
 This was different from the fear felt toward strong enemies. The Nephilim represented an unknown terror unrelated to the level of force.
 
-Recalling the attitude they had shown him so far, he hoped Sirone wouldn't place some strange curse on him.
+Recalling the attitude they had shown him so far, he hoped Shirone wouldn't place some strange curse on him.
 
-Sure enough, Sirone approached him.
+Sure enough, Shirone approached him.
 
-Contrary to his thoughts of being helplessly victimized, Sirone took out a yellow elixir and placed it in his hand.
+Contrary to his thoughts of being helplessly victimized, Shirone took out a yellow elixir and placed it in his hand.
 
 It was a fee.
 
@@ -45,17 +45,17 @@ Clove agonized for a while before putting it in his pocket.
 
 "Y-you're right. I'm sorry."
 
-Sirone didn't want to talk anymore.
+Shirone didn't want to talk anymore.
 
 Lecturing someone who had succumbed to fear was meaningless. Even if you told a cockroach to bow, it would comply.
 
-Sirone stopped paying attention to Clove and went to where the Norse were gathered. Since this was also part of the community, he figured he might as well ask around.
+Shirone stopped paying attention to Clove and went to where the Norse were gathered. Since this was also part of the community, he figured he might as well ask around.
 
 "Excuse me, do you know anything about a woman named Miro?"
 
 The Norse looked puzzled.
 
-Just as Sirone was about to give up and turn away, an old man with a walking stick approached.
+Just as Shirone was about to give up and turn away, an old man with a walking stick approached.
 
 "Miro, did you say Miro?"
 
@@ -83,13 +83,13 @@ What judgment would he make when this journey ended? Would he come to understand
 
 While he was lost in thought, Amy approached.
 
-"Sirone, the sun looks like it's setting. We decided to sleep here tonight, what do you think?"
+"Shirone, the sun looks like it's setting. We decided to sleep here tonight, what do you think?"
 
 "Hm? That's fine with me too. I'm tired from fighting since morning. Let's rest from now on."
 
 "Um..."
 
-Kanya approached and spoke. Amy could tell just from her expression. Seeing how she had followed them, she was definitely concerned about her relationship with Sirone.
+Kanya approached and spoke. Amy could tell just from her expression. Seeing how she had followed them, she was definitely concerned about her relationship with Shirone.
 
 "What is it? Do you have something to say to me?"
 
@@ -101,7 +101,7 @@ Kanya approached and spoke. Amy could tell just from her expression. Seeing how 
 
 "Ah... I see."
 
-Sirone left a trailing note in his voice.
+Shirone left a trailing note in his voice.
 
 If Kanya was leaving tomorrow morning, they would definitely have to follow then too. But the problem was that nothing had been agreed upon.
 
@@ -115,7 +115,7 @@ It might be because of her mother who didn't have much time left. She might have
 
 In any case, there was no reason to refuse. He was just grateful for her kindness in accepting his goodwill.
 
-When Sirone agreed, Kanya blushed.
+When Shirone agreed, Kanya blushed.
 
 Amy didn't like that part, but she couldn't timidly pick a fight about it, so she snorted and went to Tess.
 
@@ -125,9 +125,9 @@ While wrapping up the day's activities, the outskirts of Norse Refuge became noi
 
 Without time to ask what was happening, the Norse scattered in all directions.
 
-Sirone grabbed Kanya's hand and ran to where Gardlock was. His friends seemed to have made the same judgment as they were gathering there too.
+Shirone grabbed Kanya's hand and ran to where Gardrak was. His friends seemed to have made the same judgment as they were gathering there too.
 
-Lying prone in the bushes, Sirone heard the full story from Gardlock.
+Lying prone in the bushes, Shirone heard the full story from Gardrak.
 
 He said that when the moon waxed to full, angels would patrol around Purgatory.
 
@@ -139,13 +139,13 @@ As each sound layered, the discord disappeared and a single melody pierced throu
 
 Was it a stringed instrument that made the most beautiful sound in the world?
 
-Sirone lost himself in delusion.
+Shirone lost himself in delusion.
 
-Gardlock pulled Sirone's consciousness back from outside awareness.
+Gardrak pulled Shirone's consciousness back from outside awareness.
 
 "Get a hold of yourself! Don't get drawn into the sound! We can endure it because we're mages, but other species would have already collapsed."
 
-Sirone checked on Tess and Rena. They were kneeling and crying. Though they hadn't lost consciousness, they were already in another world.
+Shirone checked on Tess and Rena. They were kneeling and crying. Though they hadn't lost consciousness, they were already in another world.
 
 What exactly was this sound? Could a single tone shake people's minds like this?
 
@@ -157,7 +157,7 @@ What exactly was this sound? Could a single tone shake people's minds like this?
 
 "In heaven, angels are called harmonizers of law. As the first entities of causality, they take precedence over all laws. Vibration is the tremor that proves an angel's unique domain."
 
-Sirone looked up at the sky. Judging by the vibration's frequency, it seemed they would soon pass over Norse Refuge.
+Shirone looked up at the sky. Judging by the vibration's frequency, it seemed they would soon pass over Norse Refuge.
 
 Though they had put up a barrier with light magic, he couldn't shake his uneasiness.
 
@@ -175,7 +175,7 @@ Though they had put up a barrier with light magic, he couldn't shake his uneasin
 
 Someone shouted "They're coming!" from the bushes on the outskirts.
 
-Sirone raised his head. He could see four silhouettes passing overhead at high speed.
+Shirone raised his head. He could see four silhouettes passing overhead at high speed.
 
 He couldn't even blink.
 
@@ -197,7 +197,7 @@ Above their heads floated elongated red triangular lights like horns, varying in
 
 "I said angels are harmonizers of law. They are the first individuality created by God and have the right to freely interpret God's will. Do you know what this means? They can manipulate laws at will. They're on a different dimension from giants. When angels harmonize laws, Mara act. That's why Mara are called executors of law."
 
-Sirone realized he had encountered the highest class of this world.
+Shirone realized he had encountered the highest class of this world.
 
 If God was the law, then angels were the judges.
 
@@ -215,7 +215,7 @@ Clove said with a trembling jaw.
 
 "Actually, I see them more often here."
 
-Sirone was gripped by a strange feeling.
+Shirone was gripped by a strange feeling.
 
 If angels actually exist, are Unlockers really Nephilim? Could the power to freely traverse dimensions, Miro's Scale magic, be angelic abilities?
 
@@ -229,33 +229,33 @@ It was a gigantic moon that seemed touchable from a mountaintop if there were mo
 
 After the angels' patrol ended, the Norse's day came to a close.
 
-Sirone rented a 12-person barracks from the tent village and lay down alongside his friends.
+Shirone rented a 12-person barracks from the tent village and lay down alongside his friends.
 
 Perhaps tired, gentle breathing could be heard from here and there. Though he wanted to think more, he could feel his physical functions declining.
 
-Without knowing it, Sirone fell asleep and met Miro in his dreams. It wasn't a nightmare.
+Without knowing it, Shirone fell asleep and met Miro in his dreams. It wasn't a nightmare.
 
 **Wine of Tales (1)**
 
-Sirone's group followed Gardlock and arrived at the whirlpool serpent's valley.
+Shirone's group followed Gardrak and arrived at the whirlpool serpent's valley.
 
 Since the law had been broken, it could no longer be called the whirlpool serpent's valley, but a name maintained for tens of thousands of years wouldn't disappear easily.
 
-Gardlock said they would no longer be able to find guides in this place.
+Gardrak said they would no longer be able to find guides in this place.
 
 With the whirlpool serpent gone, there was a possibility that a new law would enter. Whatever law it might be, it wouldn't be favorable to them.
 
 "We'll be able to see someday. Laws are finite, but humans are infinite. Even if heaven perishes, Norse Refuge won't disappear."
 
-Gardlock said this and vanished.
+Gardrak said this and vanished.
 
-The words that humans are infinite touched Sirone's heart. Even in this place tens of thousands of light-years away, humans were living.
+The words that humans are infinite touched Shirone's heart. Even in this place tens of thousands of light-years away, humans were living.
 
 The group sent three drones into the sky.
 
 Having experienced Kergo's heretic hunting, the importance of reconnaissance had grown even more.
 
-When Sirone asked about heaven, Kanya kindly explained, unlike when they first met.
+When Shirone asked about heaven, Kanya kindly explained, unlike when they first met.
 
 "Heaven consists of seven heavens. From the Seventh Heaven Arabot to the First Heaven Shamain. Divine subjects reside in the First Heaven Shamain. Three races—Mecca, Norse, and Kergo—keep the laws and do their assigned work. When Kergo produces, Mecca processes and Norse supplies."
 
@@ -263,9 +263,9 @@ When Sirone asked about heaven, Kanya kindly explained, unlike when they first m
 
 "We've been doing this for hundreds of thousands of years already. We simply act according to the laws of Anke Ra."
 
-As far as Sirone knew, civilization in the original world had emerged at most 10,000 years ago. If heaven had existed for hundreds of thousands of years, population saturation should have been normal, social problems aside.
+As far as Shirone knew, civilization in the original world had emerged at most 10,000 years ago. If heaven had existed for hundreds of thousands of years, population saturation should have been normal, social problems aside.
 
-When Sirone voiced such thoughts, Kanya tilted her head in puzzlement.
+When Shirone voiced such thoughts, Kanya tilted her head in puzzlement.
 
 "Having such doubts is impious. Anke Ra governs the world. The population of Shamain has never once decreased or increased. The population count is always the same."
 

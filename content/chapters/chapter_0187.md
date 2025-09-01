@@ -1,5 +1,5 @@
 ---
-title: Chapter 187 - Norse Refuge (2)
+title: Chapter 187 - Norse Shelter (2)
 date: 2025-08-29
 ---
 

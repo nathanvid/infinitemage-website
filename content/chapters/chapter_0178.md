@@ -215,7 +215,7 @@ Shirone sighed and spoke.
 
 Laser could destroy matter regardless of durability, but because it took time to accumulate energy, it was less effective against fast-moving targets.
 
-It was fortunate that it was magic that didn't exist in the world, because if Harvest had known the characteristics of laser beforehand, she wouldn't have been caught so easily like last time.
+It was fortunate that it was magic that didn't exist in the world, because if Harvest had known the characteristics of laser beforehand, he wouldn't have been caught so easily like last time.
 
 "The problem is that the only enemy we've encountered is one giant. How strong are giants in this world? If we could just know that, wouldn't it help with exploration?"
 

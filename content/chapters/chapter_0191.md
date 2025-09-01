@@ -1,5 +1,5 @@
 ---
-title: Chapter 191 - Norse Refuge (6)
+title: Chapter 191 - Norse Shelter (6)
 date: 2025-08-29
 ---
 

@@ -233,7 +233,7 @@ As the knife-like scattered edges of light weakened, the original scenery was re
 
 The sound of desolate wind permeated the place where people had vanished.
 
-**5. Norse Refuge (1)**
+**5. Norse Shelter (1)**
 
 Ruins' remains were buried in the field. A shallow stream flowed, and wildflowers bloomed along the waterside.
 

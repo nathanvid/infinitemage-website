@@ -187,11 +187,11 @@ It was a kind of display of power.
 
 It was impossible without the muscle strength to suppress inertia with a single blow.
 
-"What are you?"
+"Who are you?"
 
 Ymir asked. He truly didn't know, so he was asking.
 
-Since he was holding Signa and Exd, he must be a Mecha, but his appearance resembled a Norse.
+Since he was holding Signa and Exd, he must be a Mecca, but his appearance resembled a Norse.
 
 "What are you saying?"
 

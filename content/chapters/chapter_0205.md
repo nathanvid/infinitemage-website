@@ -205,11 +205,11 @@ Canis traced through Igirin's memories to find the location of the Great World H
 
 "Please don't irritate me and explain it comprehensibly."
 
-"Some technology of the Mecha System can change the information of specific spaces. Simply put, it's been sent to another dimension. To enter the Great World Hall, you need to shut down the Mecha System first."
+"Some technology of the Mecca System can change the information of specific spaces. Simply put, it's been sent to another dimension. To enter the Great World Hall, you need to shut down the Mecca System first."
 
 "How do we shut it down?"
 
-"Looking at the map of Jebul, there's a portal that goes to Ingris. It's a place that controls all information in Heaven, and you should be able to shut down the Mecha System there too."
+"Looking at the map of Jebul, there's a portal that goes to Ingris. It's a place that controls all information in Heaven, and you should be able to shut down the Mecca System there too."
 
 "Huh? Ingris?"
 
@@ -231,7 +231,7 @@ That place was Ingris.
 
 It was the hall of knowledge where all the secrets of the world were said to be recorded.
 
-"I'll take that place. While Rian goes to the Great World Hall, I'll disable the Mecha System. I should be able to buy some time."
+"I'll take that place. While Rian goes to the Great World Hall, I'll disable the Mecca System. I should be able to buy some time."
 
 It sounded good to say buying time, but it was no different from telling him to enter a deathtrap.
 

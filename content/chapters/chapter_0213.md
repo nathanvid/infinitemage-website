@@ -25,13 +25,13 @@ He couldn't distinguish whether the thoughts now arising in his mind were his ow
 
 It felt like a madman acting out two people by himself.
 
-*—Don't be confused. I am Shirone, and Shirone is me. Just let your thoughts arise naturally.*
+*—Don't be confused. I am you, and you are me. Just let your thoughts arise naturally.*
 
 He understood the method, but even the thoughts that just arose felt like his own delusions, giving him chills.
 
 Did he really have to think that? It seemed like he could think any number of other thoughts if he tried.
 
-*—Don't doubt it! If you start doubting, everything that makes up Shirone will collapse. Possession is a sensitive technique. Just accept it.*
+*—Don't doubt it! If you start doubting, everything that makes up you will collapse. Possession is a sensitive technique. Just accept it.*
 
 Shirone decided to simply believe. Even if the thoughts in his head were nothing more than his own delusions, he concluded they were truth.
 
@@ -51,11 +51,11 @@ It was because that was the most familiar direction for humans.
 
 *—Is this right?*
 
-*—Yes. No, well done. Whatever you do, Shirone's decision is important. You must find the most efficient method yourself. Now we're going to create the halo that will become the framework of the magic formation. Draw a perfect circle with light.*
+*—Yes. Well done. Whatever you do, your decision is important. You must find the most efficient method yourself. Now we're going to create the halo that will become the framework of the magic formation. Draw a perfect circle with light.*
 
 Shirone waited without thinking anything. Then no voice arose at all.
 
-*—Um... do it now?*
+*—Um... now?*
 
 *—Yes. Do it now.*
 
@@ -107,7 +107,7 @@ Shirone pulled his mind, decomposed to its smallest units, within the boundaries
 
 A massive ring of light swept up everything and surged into Shirone's mind.
 
-A sound sharp and cold as cutting glass erupted. Then before Shirone's eyes, a perfect halo without an inch of error was born.
+A sharp and cold sound as cutting glass erupted. Then in front Shirone's eyes, a perfect halo without an inch of error was born.
 
 The speed of light rotating along the halo as a rail was literally light speed. Though it had emerged in separation form, Spirit Zone was still a magician's mind. With such a thing spinning in his mind, his thoughts were nearly paralyzed.
 
@@ -115,7 +115,7 @@ In short, Shirone had implemented the concept called Immortal Function in the re
 
 Ikael's voice became sharp.
 
-*—Shirone! Now I will inscribe the archangel's unique omniscience onto Shirone's halo! You must not release Diamond Body. You must endure to survive!*
+*—Shirone! Now I will inscribe the archangel's unique omniscience onto your halo! You must not release Diamond Body. You must endure to survive!*
 
 A red flash shot out from the front and collided with the center of the halo.
 
@@ -259,11 +259,11 @@ Ikael could have easily woken him before then.
 
 When Shirone looked back in disbelief, Ikael said with an apologetic expression.
 
-"Shirone was in shock. Even if I had forcibly woken you, you wouldn't have been able to fight in peak condition. Especially to use the angel's magic formation, you'll need to pour out all of Shirone's mental power."
+"you were in shock. Even if I had forcibly woken you, you wouldn't have been able to fight in peak condition. Especially to use the angel's magic formation, you'll need to pour out all of your mental power."
 
 Ikael's words were right. But the fact that time had been delayed was still worrisome.
 
-"Don't worry. Through this incident, Shirone's mental power has become stronger. Moreover, since you've recovered sufficiently, you'll be able to reach the destination faster than before."
+"Don't worry. Through this incident, your mental power has become stronger. Moreover, since you've recovered sufficiently, you'll be able to reach the destination faster than before."
 
 Shirone examined his own changes. A much more powerful effect was occurring in his body than when he had reached the realm of Diamond Body.
 

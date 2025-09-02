@@ -61,7 +61,7 @@ Would it really be safe to reveal his name to a Mara who could control all infor
 
 If she learned the word "Canis," he couldn't imagine what demands the half-mad Mara might make.
 
-*—I know. But I can't stall forever. I need to disable the Mecha System too.*
+*—I know. But I can't stall forever. I need to disable the Mecca System too.*
 
 As Canis remained silent, the administrator's face contorted like a monster's.
 

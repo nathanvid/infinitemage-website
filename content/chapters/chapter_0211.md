@@ -73,7 +73,7 @@ Harvest patted his shoulder and said, "You've achieved your purpose in coming to
 
 Canis handed the panel to Harvest and went to the central control device.
 
-"It's just the right time for Rian to arrive. Copy the records for me. I'll try to disable the Mecha System."
+"It's just the right time for Rian to arrive. Copy the records for me. I'll try to disable the Mecca System."
 
 Harvest placed his palm on the glass plate and imprinted all the text at once. It was a method of memorizing all the vibration patterns while turning pages.
 
@@ -89,7 +89,7 @@ At some point, a complete map of Jebul appeared.
 
 When he touched the Great World Hall, the screen enlarged and numerous items appeared in succession.
 
-Entering the security system, he spotted a setting that blocked the Mecha System.
+Entering the security system, he spotted a setting that blocked the Mecca System.
 
 Canis chose to disable it without hesitation.
 

@@ -17,7 +17,7 @@ That was the reality. Shirone held the key to returning to their original world.
 
 Though Canis felt his pride wounded at not being able to be the protagonist, he wasn't foolish enough to damage their teamwork.
 
-"Still, if we don't disable the Mecha System, we won't have any opportunities at all. Should we take a look around first?"
+"Still, if we don't disable the Mecca System, we won't have any opportunities at all. Should we take a look around first?"
 
 Canis moved forward while surveying their surroundings. Suddenly sensing something strange, he approached a wall.
 
@@ -169,7 +169,7 @@ Canis felt a bit irritated.
 
 The manager's eyes lit up as if a good idea had occurred to her.
 
-"Since you're human too, I'll borrow the Mecha's explanation. Multiply 2 by 3, then add 1. What do you get?"
+"Since you're human too, I'll borrow the Mecca's explanation. Multiply 2 by 3, then add 1. What do you get?"
 
 "Obviously 7."
 
@@ -211,9 +211,9 @@ Whatever answer came out, it would be everything in the world, and therefore wou
 
 The manager pointed to the panels.
 
-"Ingris is connected to the Akashic Records using the Mecha System. It changes truth by twisting equations. This is called hacking, and something like human lifespans can be fixed quickly."
+"Ingris is connected to the Akashic Records using the Mecca System. It changes truth by twisting equations. This is called hacking, and something like human lifespans can be fixed quickly."
 
-Canis felt a sense of crisis. The technology to destroy truth with Mecha's abilities was at a level that humanity could never reach unless their paradigm changed revolutionarily.
+Canis felt a sense of crisis. The technology to destroy truth with Mecca's abilities was at a level that humanity could never reach unless their paradigm changed revolutionarily.
 
 The manager clicked her fingers to get attention.
 

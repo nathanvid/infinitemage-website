@@ -31,7 +31,7 @@ But her efforts were useless for now.
 
 The drone could guide Shirone's group to arrive as quickly as possible, but nothing appeared on the retinal screen.
 
-She didn't know that space itself was isolated by Mecha's functions.
+She didn't know that space itself was isolated by Mecca's functions.
 
 Kariel inspected the machinery about 70 meters away from the spherical cluster.
 
@@ -241,7 +241,7 @@ After moving to the same location several times, Canis was able to find the port
 
 "Let's separate here. Even knowing the way, finding it is another matter. It would be better for at least one person to go ahead."
 
-"Will you be okay? If I can't disable the Mecha System, there's no point in me going first. If there are enemies in Ingris, it might be more effective to deal with them together."
+"Will you be okay? If I can't disable the Mecca System, there's no point in me going first. If there are enemies in Ingris, it might be more effective to deal with them together."
 
 Canis looked back at the portal.
 
@@ -255,7 +255,7 @@ From that perspective, moving together as Rian suggested might be better.
 
 But Canis didn't change his mind.
 
-He didn't know how long it would take to disable the Mecha System. Wasting manpower under any circumstances was never a good method.
+He didn't know how long it would take to disable the Mecca System. Wasting manpower under any circumstances was never a good method.
 
 "Nothing's certain anyway. There's no guarantee it'll be easier with two people. Let's each do what we can. That's the best option right now."
 

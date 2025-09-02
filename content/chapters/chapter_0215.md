@@ -199,7 +199,7 @@ The bridge was one kilometer long and sixty meters wide. Without guardrails, it 
 
 At the end of the bridge stood a dome-shaped structure. It was the Great World Hall where his friends were being held captive.
 
-Being able to see the building was good news. It meant Canis had disabled the Mecha System.
+Being able to see the building was good news. It meant Canis had disabled the Mecca System.
 
 "What? You're still here?"
 

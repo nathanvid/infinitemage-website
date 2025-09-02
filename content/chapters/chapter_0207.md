@@ -297,7 +297,7 @@ Like reading a fairy tale to a child, Ikael began her story in a beautiful voice
 
 The Great World Hall in Jebul was Kariel's laboratory and an observatory governing the operation of the world.
 
-Because space had been erased with a special function of the Mecha System, as long as the security device was operational, not only entry but even traces could not be found.
+Because space had been erased with a special function of the Mecca System, as long as the security device was operational, not only entry but even traces could not be found.
 
 Befitting a place with the character for "hall," it was a vast space that could contain Alpheus Magic School.
 

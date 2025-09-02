@@ -23,7 +23,7 @@ Ikael shook her head.
 
 "But that means..."
 
-"Yes. She must eternally serve as a barrier in a place where time doesn't flow. Otherwise, Shirone's world will face destruction."
+"Yes. She must eternally serve as a barrier in a place where time doesn't flow. Otherwise, your world will face destruction."
 
 Shirone's lips trembled. Miro's face from their last meeting came vividly to mind.
 
@@ -45,7 +45,7 @@ This couldn't even be called a crime. It was a decision that had thrown one huma
 
 "Just how long must Miro...?"
 
-"Even now, Heaven's army is making full preparations for the final war. Perhaps it won't take too long. The Metagate that Shirone's party brought has coordinates recorded in it."
+"Even now, Heaven's army is making full preparations for the final war. Perhaps it won't take too long. The Metagate that your party brought has coordinates recorded in it."
 
 Shirone's mind went blank.
 
@@ -61,15 +61,15 @@ This wasn't a matter of their life and death. It was the destruction of all huma
 
 He couldn't believe it was true. What on earth had they done?
 
-"That's also why I want to help. Shirone's friends are captured in the Great World Hall. Kariel will implant Nephilim information into the girls' bodies."
+"That's also why I want to help. your friends are captured in the Great World Hall. Kariel will implant Nephilim information into the girls' bodies."
 
 "Why? You said they're preparing for the final war! What do the Nephilim have to do with this situation?"
 
-"Because the situation has changed. Miro isn't a Nephilim. Yet she opened Immortal Function on her own. Such cases are extremely rare, but they're happening quite frequently in Shirone's world."
+"Because the situation has changed. Miro isn't a Nephilim. Yet she opened Immortal Function on her own. Such cases are extremely rare, but they're happening quite frequently in your world."
 
 That was also why confusion had come when he heard about Nephilim at Norse Refuge. There were too many Unlockers to be called descendants of angels.
 
-"It means Shirone's world has grown distant from Ra's will. Guffin bought time so humans could understand the essence of the world. And now that will has passed to Miro. Of course, the time she defended is pitiful compared to Guffin's. But considering the speed of growth, it's at a level that can't be overlooked."
+"It means your world has grown distant from Ra's will. Guffin bought time so humans could understand the essence of the world. And now that will has passed to Miro. Of course, the time she defended is pitiful compared to Guffin's. But considering the speed of growth, it's at a level that can't be overlooked."
 
 Shirone agreed with those words too.
 
@@ -109,7 +109,7 @@ If an archangel who had risen to the rank of seraph would side with humans, ther
 
 She had said before meeting Guffin. He couldn't ask what sin Ikael had committed, but he could guess it was connected to that person.
 
-"But you mustn't be relieved. I'm in a body with sealed powers. Moreover, I can't even leave this room, so even if I help Shirone, I can't provide direct assistance."
+"But you mustn't be relieved. I'm in a body with sealed powers. Moreover, I can't even leave this room, so even if I help you, I can't provide direct assistance."
 
 "But... with my power, I can't defeat an angel."
 
@@ -127,7 +127,7 @@ She wouldn't have brought this up just to discourage him. Shirone waited for a s
 
 "So... you mean the halo?"
 
-"That's right. Angels activate abilities by accumulating information in their halos. If Shirone learns this, you could create one opportunity at a crucial moment."
+"That's right. Angels activate abilities by accumulating information in their halos. If you learns this, you could create one opportunity at a crucial moment."
 
 Shirone recalled the events at Shamain. The sense of intimidation he'd felt when Ikasa deployed her halo still remained in his body.
 
@@ -137,7 +137,7 @@ He didn't think it was possible. Humans don't have Over Spirit.
 
 Without a sacred light body, there's no space to inscribe information—how could he create a magic circle?
 
-"Of course, it won't be easy. For Shirone to use an angel's magic circle, you must overcome at least three difficulties."
+"Of course, it won't be easy. For you to use an angel's magic circle, you must overcome at least three difficulties."
 
 Ikael said while holding up three fingers.
 
@@ -159,13 +159,13 @@ Shirone recalled the scene where Ikael had caused the Galliant volcano to erupt.
 
 "A perfect circle is one thing, but what about the formulas? A human mind can't instantly calculate the enormous information needed to make a volcano explode."
 
-"But there is insight. Here, I'll try one thing. We'll perform a mental fusion. I'll become Shirone and use the halo. Then that experience will be converted entirely to Shirone's experience and remain in your mind."
+"But there is insight. Here, I'll try one thing. We'll perform a mental fusion. I'll become you and use the halo. Then that experience will be converted entirely to your experience and remain in your mind."
 
 "Such a method..."
 
 Ikael's eyes became sharp.
 
-"Don't call it a method. It's no different from the most extreme violence that can be inflicted on a human. If we're careless, Shirone's mind will shatter. And my mind, which has merged with Shirone's, won't be safe either."
+"Don't call it a method. It's no different from the most extreme violence that can be inflicted on a human. If we're careless, your mind will shatter. And my mind, which has merged with your, won't be safe either."
 
 Shirone felt nauseous. If it was to save his friends, he didn't mind his mind being destroyed. He'd risked his life from the beginning. But if even Ikael would be in danger, it wasn't something he could decide rashly.
 
@@ -177,7 +177,7 @@ Shirone calmed his mind through deep breathing. As she said, it was something th
 
 "What's the third difficulty?"
 
-"Even if the magic circle's formula is completed, whether you can withstand it is another problem. Without mental durability backing you up, Shirone will face destruction. Of course, this is separate from my danger. But if you can't endure it, it's better not to attempt this from the beginning."
+"Even if the magic circle's formula is completed, whether you can withstand it is another problem. Without mental durability backing you up, you will face destruction. Of course, this is separate from my danger. But if you can't endure it, it's better not to attempt this from the beginning."
 
 "Don't worry about that. I'll definitely endure it."
 
@@ -185,11 +185,11 @@ He was confident about this last barrier. Since entering magic school, his mind 
 
 Moreover, having reached the state of Diamond Body, he thought he could endure to some degree.
 
-"You don't understand. I know Shirone has mental strength that will never collapse. But that alone might not be enough."
+"You don't understand. I know you have mental strength that will never collapse. But that alone might not be enough."
 
 "You'll never collapse but might collapse anyway? That seems contradictory."
 
-"No. The former and latter are at different conceptual levels. If it's a vessel to contain Shirone's mind, the current durability would be sufficient. But concepts born from higher dimensions like angels are different in quality. It might be a vessel sufficient for containing water, but if that water freezes, any vessel will inevitably break."
+"No. The former and latter are at different conceptual levels. If it's a vessel to contain your mind, the current durability would be sufficient. But concepts born from higher dimensions like angels are different in quality. It might be a vessel sufficient for containing water, but if that water freezes, any vessel will inevitably break."
 
 "I see."
 
@@ -199,7 +199,7 @@ No, perhaps this was normal.
 
 It was a human learning an archangel's magic circle, so it was right to accept this level of risk from the beginning.
 
-"The halo will make Shirone's mind explode from within. The choice is Shirone's. If you want to try even knowing such dangers, I will help."
+"The halo will make your mind explode from within. The choice is yours. If you want to try even knowing such dangers, I will help."
 
 For angels, mental collapse was equivalent to the extinction of life.
 
@@ -209,11 +209,11 @@ Not only for his friends, but the opportunity to learn an archangel's true metho
 
 "I'll do it. No, please do it. Whatever the result, I'll accept it."
 
-"Good. The technique I'll perform on Shirone from now on is called possession. It's dominating humans by merging with their minds. Usually, dispatched angels use this to convey Ra's will."
+"Good. The technique I'll perform on you from now on is called possession. It's dominating humans by merging with their minds. Usually, dispatched angels use this to convey Ra's will."
 
 Shirone had read about possession through various literature. At the time he'd been half-believing, but now that an archangel was speaking directly, there was no room for doubt.
 
-"If possession succeeds, my mind and Shirone's will merge. If I harbor evil intentions, harming Shirone would be easy. Also, if Shirone loses purity, that evil will seep into me."
+"If possession succeeds, my mind and your will merge. If I harbor evil intentions, harming you would be easy. Also, if you lose purity, that evil will seep into me."
 
 It was a warning that irreversible consequences would occur if they weren't careful with each other.
 

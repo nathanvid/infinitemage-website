@@ -7,7 +7,7 @@ Shirone closed his eyes and received the memories that Phoebe conveyed to him. I
 
 "Thank you, Phoebe."
 
-If it hadn't been for Phoebe, he wouldn't have been able to make it this far. If he successfully rescued Amy and her group, Shirone would gladly give all the credit to Phoebe.
+If it hadn't been for Phoebe, he wouldn't have been able to make it this far. If he successfully rescued Amy and his  group, Shirone would gladly give all the credit to Phoebe.
 
 "Hmph! What about me? I just followed along because what you were doing was so interesting. Just know that I absolutely won't care about it anymore from now on."
 

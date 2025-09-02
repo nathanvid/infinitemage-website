@@ -205,7 +205,7 @@ And he couldn't get up.
 
 Having dealt with Canis, Baalb charged at Shirone. The promised one minute had already passed. But still no changes were occurring in Shirone.
 
-"Shirone! Danger!"
+"Shirone! Be careful!"
 
 Shirone couldn't hear anything. With Immortal Function opened to its limits in the reversal process, there was no room for nerves to intervene.
 

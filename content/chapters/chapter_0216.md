@@ -229,7 +229,7 @@ When a new Mara appeared, the Great World Hall was tinted with an ominous color.
 
 It was a two-horned Mara.
 
-"Sleep demon Baalb. I receive Kariel-nim's command."
+"Sleep demon Baalb. I receive Kariel's command."
 
 He was a stylishly aged middle-aged man. His hair was slicked back with oil, and his exposed ears were pointed.
 

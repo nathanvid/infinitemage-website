@@ -1,5 +1,5 @@
 ---
-title: Chapter 225 - Waiting for the New Semester(3)
+title: Chapter 225 - Waiting for the New Semester (3)
 date: 2025-08-30
 ---
 

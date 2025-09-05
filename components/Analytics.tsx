@@ -1,5 +1,4 @@
 
-// components/Analytics.tsx - Version corrigée avec Suspense
 'use client'
 
 import { useEffect, Suspense } from 'react'

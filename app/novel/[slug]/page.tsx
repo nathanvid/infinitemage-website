@@ -1,4 +1,3 @@
-// app/novel/[slug]/page.tsx
 import { getChapterWithNavigation, getAllChapters } from '@/lib/chapters'
 import ChapterReader from '@/components/novel/ChapterReader'
 import { notFound } from 'next/navigation'

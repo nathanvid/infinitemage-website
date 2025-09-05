@@ -1,4 +1,3 @@
-// components/layout/Footer.tsx
 import Link from 'next/link'
 import { siteConfig } from '@/config/site'
 import { Separator } from "@/components/ui/separator"

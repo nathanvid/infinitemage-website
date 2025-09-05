@@ -1,4 +1,3 @@
-// app/sitemap.ts - Génération automatique du sitemap
 import { getAllChapters } from '@/lib/chapters'
 import { siteConfig } from '@/config/site'
 

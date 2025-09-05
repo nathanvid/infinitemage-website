@@ -1,4 +1,3 @@
-// app/novel/[slug]/not-found.tsx
 import Link from 'next/link'
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"

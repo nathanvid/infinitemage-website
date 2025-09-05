@@ -51,8 +51,7 @@ export const siteConfig = {
     "infinity mage novel",
     ],
     
-    // Analytics et tracking
     analytics: {
-        googleAnalyticsId: "G-XXXXXXXXXX", // Remplacez par votre ID
+        googleAnalyticsId: "G-XXXXXXXXXX", 
     },
 }

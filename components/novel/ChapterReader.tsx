@@ -1,4 +1,3 @@
-// components/novel/ChapterReader.tsx
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import ChapterNavigation from "./ChapterNavigation"
 

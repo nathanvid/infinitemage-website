@@ -1,4 +1,3 @@
-// components/layout/Header.tsx
 import Link from 'next/link'
 import { siteConfig } from '@/config/site'
 import { ThemeToggle } from '@/components/layout/ThemeToggle'

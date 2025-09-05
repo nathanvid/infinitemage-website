@@ -1,4 +1,3 @@
-// app/robots.ts - Robots.txt automatique
 import { siteConfig } from '@/config/site'
 
 export default function robots() {
